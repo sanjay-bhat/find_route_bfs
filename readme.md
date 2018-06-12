@@ -1,6 +1,8 @@
 README
 ======
 
+find-route calculates optimal distance between two vertices by also taking into accont thier weights. In this case the vertices are cities and weights are distances between them and we use BSF in an attempt to find shortest route between any 2 given cities provided a path exists.
+
 Files included
 --------------
 1. romania.py - Contains the details on converting the text containing vertices and their respective distances into graph.
