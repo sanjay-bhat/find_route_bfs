@@ -1,5 +1,6 @@
-README
+find_route_bfs
 ======
+[![Build Status](https://travis-ci.org/SanyTiger/find_route_bfs.svg?branch=master)](https://travis-ci.org/SanyTiger/find_route_bfs)
 
 find-route calculates optimal distance between two vertices by also taking into accont thier weights. In this case the vertices are cities and weights are distances between them and we use BSF in an attempt to find shortest route between any 2 given cities provided a path exists.
 
